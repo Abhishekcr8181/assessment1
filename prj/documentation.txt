@@ -1,0 +1,6 @@
+documentation
+
+1. switches
+2. sorting technique
+3. searching technique
+4. crud operations

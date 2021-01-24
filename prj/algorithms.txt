@@ -1,0 +1,21 @@
+Alogorithm
+
+step1. Start()
+step2. read the output from the user which is to be read.
+
+strp3. perform thr operation user sprecified operations.
+
+
+step4. Retrieving the file names in an ascending order using read method.
+
+step5. perform to add a user specified file to the application
+
+step6. perform to delete a user specified file from the application
+
+step7. perform to search a user specified file from the application
+
+step8. Navigation option to close the current execution context and return to the main context
+
+step9. Option to close the application
+
+step10. stop();

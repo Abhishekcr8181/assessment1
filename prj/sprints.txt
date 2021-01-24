@@ -1,0 +1,18 @@
+First Sprint
+
+1. First focus on building a simple-as-possible webshop so we could at least present the product catalog and allow customers to purchase single products;
+2. Then focus on building a dashboard where widgets from the various products can be integrated into a single overview of what is important;
+3. Then focus on expanding the lockedMe.com with support for complex purchases with multiple licenses and users;
+4. Then focus on making branded versions of the product available to large customers;
+5. This strategy helped inform the goals for the first dozen Sprints
+
+
+Second Sprint
+
+1. Create a sticky-based Sprint Backlog and Product Backlog on the wall in the team-room;
+2. Set up servers for the production environment (including database);
+3. Set up a build server to build commits, run unit tests and compile deployment packages;
+4. Set up a distributed service bus ;
+5. Before deploying to production, automatically back-up the database;
+6. Set up an empty API that connects to any empty database;
+7. Before deploying to production, automatically run integration tests on API;
